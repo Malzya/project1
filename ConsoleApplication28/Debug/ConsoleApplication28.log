@@ -1,0 +1,6 @@
+﻿  ConsoleApplication28.cpp
+C:\Users\Пк\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(105,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пк\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(274,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пк\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(443,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пк\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(621,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication28.vcxproj -> C:\Users\Пк\source\repos\ConsoleApplication28\Debug\ConsoleApplication28.exe
